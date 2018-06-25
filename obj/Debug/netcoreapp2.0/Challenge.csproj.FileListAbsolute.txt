@@ -1,0 +1,11 @@
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/bin/Debug/netcoreapp2.0/Challenge.deps.json
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/bin/Debug/netcoreapp2.0/Challenge.runtimeconfig.json
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/bin/Debug/netcoreapp2.0/Challenge.runtimeconfig.dev.json
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/bin/Debug/netcoreapp2.0/Challenge.dll
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/bin/Debug/netcoreapp2.0/Challenge.pdb
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/obj/Debug/netcoreapp2.0/Challenge.csprojResolveAssemblyReference.cache
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/obj/Debug/netcoreapp2.0/Challenge.csproj.CoreCompileInputs.cache
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/obj/Debug/netcoreapp2.0/Challenge.AssemblyInfoInputs.cache
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/obj/Debug/netcoreapp2.0/Challenge.AssemblyInfo.cs
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/obj/Debug/netcoreapp2.0/Challenge.dll
+/Users/enverdanielfranciscobaez/Downloads/Challenge/Challenge/obj/Debug/netcoreapp2.0/Challenge.pdb
